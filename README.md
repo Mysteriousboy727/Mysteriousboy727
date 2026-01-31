@@ -1,19 +1,16 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Soumya Ranjan Nayak
-
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Nayak</h1>
 <h3 align="center">Aspiring research engineer interested in LLMs, ML systems, and compiler infrastructure. Skilled in Go, Java, and full-stack web development.</h3>
 
 - 🔭 I’m currently working on **- Compiler internals and low-level systems (LLVMs, Go) - gRPC-based backend APIs with GoFr - Full-stack projects using Next.js, Node.js, and React.js - Improving DSA problem-solving daily using Java**
 
-- 🌱 I’m currently learning **- Advanced compiler IRs and code generation - Transformer architectures and embeddings - Distributed systems and concurrency patterns in Go**
 
-- 👯 I’m looking to collaborate on **- Research-focused ML systems - Compiler optimization tools - Open source backend tools in Go / Rust / Python**
+- 👯 I’m looking to collaborate on **- Research-focused ML systems - Compiler optimization tools - Open source backend tools in  Python**
 
 - 🤝 I’m looking for help with **- Deep dive into LLM internals and training pipelines - LLVM contributions and real-world compiler design - Building performance metrics into real-time services**
 
-- 👨‍💻 All of my projects are available at [- [My GitHub](https://github.com/Mysteriousboy727) - Personal portfolio](- [My GitHub](https://github.com/Mysteriousboy727) - Personal portfolio)
+- 👨‍💻 All of my projects are available at [- [My GitHub](https://github.com/Mysteriousboy727) - Personal portfolio]
 
 - 📝 I regularly write articles on [Compiler fundamentals, ML model optimization, backend architecture - (Publishing soon on [Medium](https://medium.com/) and Dev.to)](Compiler fundamentals, ML model optimization, backend architecture - (Publishing soon on [Medium](https://medium.com/) and Dev.to))
 
